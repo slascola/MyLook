@@ -1,7 +1,7 @@
 ---Stephanie Lascola---
 ---Implementation of the Unix Command "look"---
 ---CPE 357 Final Project---
----Github URL: github.com/slascola---
+---Github URL: github.com/slascola/MyLook---
 
 Overview of MyLook:
    MyLook is an implementation of the unix command "look". MyLook uses a binary
